@@ -83,6 +83,7 @@ header{
     text-transform: uppercase;
     border: none;
     border-radius: 4px;
+    line-height: 45px;
   }
 /*fim do menu , barra nav */
 /* inicio dos titulos principais */
@@ -304,6 +305,10 @@ text-align: center;
 }
 
 button{
+    margin-bottom: 10px;
+}
+
+.botao{
     margin-bottom: 10px;
 }
 /*fim dos depoimentos*/
