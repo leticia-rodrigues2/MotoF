@@ -66,6 +66,7 @@ header{
   } 
   h3.subtitulo{
       text-align: center;
+      font-size: 100%;
   }
   .botao{
     font-family: 'Roboto', sans-serif;
@@ -158,7 +159,7 @@ margin-left: 2cm;
 
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 #team {
-    background:#1F232B; !important;
+    background:#1F232B !important;
 }
 
 .btn-primary:hover,
@@ -270,12 +271,12 @@ section .section-title {
 
 .backside .card a {
     font-size: 18px;
-    color:rgb(245, 245, 72);!important;
+    color:rgb(245, 245, 72) !important;
 }
 
 .frontside .card .card-title,
 .backside .card .card-title {
-    color: rgb(245, 245, 72); !important;
+    color: rgb(245, 245, 72) !important;
 }
 
 .frontside .card .card-body img {

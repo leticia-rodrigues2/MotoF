@@ -24,6 +24,9 @@ header{
     margin-right: 156px;
     margin-bottom: 69px;
   }
+ .funcoes h3 { 
+     font-size: 0% !important;
+ }
   
   .menu > span > a{
     font-family: 'Raleway', sans-serif;
